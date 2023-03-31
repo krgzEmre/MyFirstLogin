@@ -1,0 +1,17 @@
+C:\Users\krgze\source\repos\BIG\BIG\bin\Debug\BIG.exe.config
+C:\Users\krgze\source\repos\BIG\BIG\bin\Debug\BIG.exe
+C:\Users\krgze\source\repos\BIG\BIG\bin\Debug\BIG.pdb
+C:\Users\krgze\source\repos\BIG\BIG\obj\Debug\BIG.csproj.AssemblyReference.cache
+C:\Users\krgze\source\repos\BIG\BIG\obj\Debug\BIG.csproj.SuggestedBindingRedirects.cache
+C:\Users\krgze\source\repos\BIG\BIG\obj\Debug\BIG.Form1.resources
+C:\Users\krgze\source\repos\BIG\BIG\obj\Debug\BIG.Properties.Resources.resources
+C:\Users\krgze\source\repos\BIG\BIG\obj\Debug\BIG.csproj.GenerateResource.cache
+C:\Users\krgze\source\repos\BIG\BIG\obj\Debug\BIG.csproj.CoreCompileInputs.cache
+C:\Users\krgze\source\repos\BIG\BIG\obj\Debug\BIG.exe
+C:\Users\krgze\source\repos\BIG\BIG\obj\Debug\BIG.pdb
+C:\Users\krgze\source\repos\BIG\BIG\obj\Debug\BIG.Form2.resources
+C:\Users\krgze\source\repos\BIG\BIG\bin\Debug\BIG.exe.manifest
+C:\Users\krgze\source\repos\BIG\BIG\bin\Debug\BIG.application
+C:\Users\krgze\source\repos\BIG\BIG\obj\Debug\BIG.exe.manifest
+C:\Users\krgze\source\repos\BIG\BIG\obj\Debug\BIG.application
+C:\Users\krgze\source\repos\BIG\BIG\obj\Debug\BIG.Form3.resources
